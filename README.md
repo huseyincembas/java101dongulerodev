@@ -1,2 +1,2 @@
-# java101dongulerodev
-patika.dev java101 döngüler dersi ödevleri
+# JAVA101 Döngüler Konusu Ödevleri www.patika.dev
+www.patika.dev
